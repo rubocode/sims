@@ -2,7 +2,7 @@
 
 ![banner](/sims/photos/banner.png)
 
-## Software System Definition (SSD)
+## Software System Definition
 > Student Information Management System
 
 
