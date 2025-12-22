@@ -4,4 +4,4 @@
 
 ![banner](/sims/photos/banner.png)
 
-## Student Information Management
+## Student Information Management System
